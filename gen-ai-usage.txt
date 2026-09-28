@@ -1,0 +1,19 @@
+gen-ai-usage
+
+I asked to make a barebones html structure when asked during the lab.
+
+Tool/model: Claude
+
+My plan or attempt before prompting: I look at my resume, and there is a lot of spacing and different text types, margins that I don't feel super comfortable replicating in HTML.
+
+
+Prompt: Please create a html format for the general jake's resume.
+
+
+What was correct: It give list options for different job experiences, projects, etc.
+
+How I tested it: I copied and pasted bullet points from my resume, and I opened the html file.
+
+One line I can explain: Headers, list elements, a special style within the html.
+
+
